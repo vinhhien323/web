@@ -1,6 +1,6 @@
 # Profile
 
-# Personal Information
+### Personal Information
 
 - Name: Huỳnh Đặng Vĩnh Hiền
 
