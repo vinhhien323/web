@@ -2,9 +2,9 @@
 
 # Personal Information
 
-Name: Huỳnh Đặng Vĩnh Hiề
+- Name: Huỳnh Đặng Vĩnh Hiền
 
-Dat
+- Date of birth: 08-01-2003
 
 ### Markdown
 
